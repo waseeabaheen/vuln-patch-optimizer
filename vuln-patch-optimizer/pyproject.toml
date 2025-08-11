@@ -8,7 +8,7 @@ version = "0.1.0"
 description = "Vulnerability Scanning & Patch Management Optimization"
 readme = "README.md"
 requires-python = ">=3.9"
-authors = [{name="Your Name"}]
+authors = [{name="Waseea Baheen", email = "waseea.baheen@gmail.com"}]
 dependencies = [
     "click>=8.1",
     "PyYAML>=6.0",
