@@ -1,0 +1,3 @@
+policy: balanced   # aggressive | balanced | conservative
+waves: 3
+sla_days: 14

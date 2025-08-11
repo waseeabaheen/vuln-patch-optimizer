@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "vpo"
+version = "0.1.0"
+description = "Vulnerability Scanning & Patch Management Optimization"
+readme = "README.md"
+requires-python = ">=3.9"
+authors = [{name="Your Name"}]
+dependencies = [
+    "click>=8.1",
+    "PyYAML>=6.0",
+    "tabulate>=0.9",
+    "rich>=13.7",
+]
+
+[project.scripts]
+vpo = "vpo.cli:main"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

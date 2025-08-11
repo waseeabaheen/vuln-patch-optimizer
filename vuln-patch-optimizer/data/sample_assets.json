@@ -1,0 +1,58 @@
+[
+  {
+    "asset_id": "win-001",
+    "severity": 5,
+    "plugin_id": "CVE-2024-1234",
+    "cvss": 9.8,
+    "title": "Critical RCE"
+  },
+  {
+    "asset_id": "win-002",
+    "severity": 4,
+    "plugin_id": "CVE-2023-5555",
+    "cvss": 8.7,
+    "title": "Privilege Escalation"
+  },
+  {
+    "asset_id": "lin-001",
+    "severity": 3,
+    "plugin_id": "CVE-2022-3456",
+    "cvss": 6.5,
+    "title": "Info Leak"
+  },
+  {
+    "asset_id": "lin-002",
+    "severity": 5,
+    "plugin_id": "CVE-2025-1111",
+    "cvss": 9.1,
+    "title": "Kernel RCE"
+  },
+  {
+    "asset_id": "db-001",
+    "severity": 4,
+    "plugin_id": "CVE-2021-2222",
+    "cvss": 7.9,
+    "title": "SQL Injection"
+  },
+  {
+    "asset_id": "app-001",
+    "severity": 2,
+    "plugin_id": "CVE-2020-0101",
+    "cvss": 5.2,
+    "title": "XSS"
+  },
+  {
+    "asset_id": "app-002",
+    "severity": 4,
+    "plugin_id": "CVE-2024-9999",
+    "cvss": 8.1,
+    "title": "Deserialization"
+  },
+  {
+    "asset_id": "lin-003",
+    "severity": 5,
+    "plugin_id": "CVE-2025-2222",
+    "cvss": 9.4,
+    "title": "OpenSSL Critical"
+  }
+]
