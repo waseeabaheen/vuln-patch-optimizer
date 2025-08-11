@@ -1,4 +1,5 @@
 # Vulnerability Scanning & Patch Management Optimization (VPO)
+**Author:** Waseea Baheen ([Waseea.baheen@gmail.com](mailto:Waseea.baheen@gmail.com))
 
 A reference implementation that demonstrates how to:
 - Integrate with vulnerability scanners (Nessus, Qualys, Tenable) via adapter interfaces
